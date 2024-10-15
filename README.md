@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**llauragonzalezz/llauragonzalezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+- 📚 I am currently pursuing a **Master's in Applied Artificial Intelligence** at Universidad Carlos III de Madrid
+- 🎓 I studied **Computer Engineering** and **Mathematics** at Universidad de Zaragoza.
 
-Here are some ideas to get you started:
+- ## Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Final Bachelor Thesis: pyANAGRA](https://github.com/llauragonzalezz/pyANAGRA): grammar analysis tool for studying context-free grammars and parsing techniques
+- [Graphics course]([link-to-your-project](https://github.com/llauragonzalezz/Graphics_course_renderer)): basic renderer implementing both Pathtracing and Photonmapping algorithms
+
+## Skills
+```md
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,r,java,html,css,js)](https://skillicons.dev)
+```
+
+## How to Contact Me
+- ✉️ [Email](mailto:lauragonzalezpi01@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/laura-gonz%C3%A1lez-pizarro-585797238/)
+

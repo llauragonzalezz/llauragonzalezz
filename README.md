@@ -4,7 +4,7 @@
 - 📚 I am currently pursuing a **Master's in Applied Artificial Intelligence** at Universidad Carlos III de Madrid
 - 🎓 I studied **Computer Engineering** and **Mathematics** at Universidad de Zaragoza.
 
-- ## Featured Projects
+## Featured Projects
 
 - [Final Bachelor Thesis: pyANAGRA](https://github.com/llauragonzalezz/pyANAGRA): grammar analysis tool for studying context-free grammars and parsing techniques
 - [Graphics course](https://github.com/llauragonzalezz/Graphics_course_renderer): basic renderer implementing both Pathtracing and Photonmapping algorithms

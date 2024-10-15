@@ -7,12 +7,12 @@
 - ## Featured Projects
 
 - [Final Bachelor Thesis: pyANAGRA](https://github.com/llauragonzalezz/pyANAGRA): grammar analysis tool for studying context-free grammars and parsing techniques
-- [Graphics course]([link-to-your-project](https://github.com/llauragonzalezz/Graphics_course_renderer)): basic renderer implementing both Pathtracing and Photonmapping algorithms
+- [Graphics course](https://github.com/llauragonzalezz/Graphics_course_renderer): basic renderer implementing both Pathtracing and Photonmapping algorithms
 
 ## Skills
-```md
+
 [![My Skills](https://skillicons.dev/icons?i=cpp,py,r,java,html,css,js)](https://skillicons.dev)
-```
+
 
 ## How to Contact Me
 - ✉️ [Email](mailto:lauragonzalezpi01@gmail.com)
